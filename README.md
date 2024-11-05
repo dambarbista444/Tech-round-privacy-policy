@@ -31,11 +31,11 @@ By downloading, accessing, or using Tech Round, you agree to be bound by these T
 
 Tech Round is designed to provide technical interview preparation resources, including questions, answers, and examples. All content is provided for educational purposes and to assist users in their interview preparation.
 
-3. Subscription Services
+3. # Subscription Services
 
 Tech Round offers premium content through a subscription model. By subscribing, you agree to the applicable fees and billing terms at the time of purchase. Subscription management, including renewals and cancellations, is handled through the App Store or Google Play.
 
-Payment will be charged to your Apple ID or Google ID account at the confirmation of purchase. Subscription automatically renews unless it canceled at least 24 hours before the end of current period. Your account will be charged for renewal within 24 hours prior to end of your current period. You can manage and cancel your subscriptions by going to your account payment settings. 
+# Payment will be charged to your Apple ID or Google ID account at the confirmation of purchase. Subscription automatically renews unless it canceled at least 24 hours before the end of current period. Your account will be charged for renewal within 24 hours prior to end of your current period. You can manage and cancel your subscriptions by going to your account payment settings. 
 
 4. Intellectual Property
 
