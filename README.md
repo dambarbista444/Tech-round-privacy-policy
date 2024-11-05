@@ -16,7 +16,7 @@ Changes to This Policy
 Any updates to this Privacy Policy will be posted within the app. Your continued use of Tech Round constitutes acceptance of these changes.
 
 Contact Us
-If you have any questions about our Privacy Policy, please contact us at connect.techround@gmail.com.
+If you have any questions about our Privacy Policy, please contact us at connect.techround@gmail.com
 
 
 # Terms
@@ -58,6 +58,6 @@ Tech Round reserves the right to suspend or terminate your access to the app at 
 
 9. Contact Information
 
-If you have any questions or concerns about these Terms of Service, please contact us at [support email].
+If you have any questions or concerns about these Terms of Service, please contact us at connect.techround@gmail.com
 
 By using Tech Round, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. Thank you for choosing Tech Round for your interview preparation needs.
